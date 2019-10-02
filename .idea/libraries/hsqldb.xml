@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hsqldb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../UCanAccess-4.0.4-bin/UCanAccess-4.0.4-bin/lib/hsqldb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
